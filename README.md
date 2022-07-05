@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ### My profile
-- 🔭 I’m currently studying at Beijing Jiaotong University.
-- 🌱 I’m currently learning Natural Language Processing. 
+My tag is a normal NLPer.
+- 🔭 I’m currently studying at **Beijing Jiaotong University**.
+- 🌱 I’m currently learning **Natural Language Processing**. 
 - 🤔 I’m looking for help with study about prompt learning.
 - 💬 Ask me about KG, Prompt and other NLP things.
 - 📫 How to reach me: 
