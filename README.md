@@ -2,13 +2,13 @@
 
 ### My profile
 My tag is a normal NLPer.
-- 🔭 I’m currently studying at **Beijing Jiaotong University**.
+- 🔭 I am pursuing a master's degree at **Beijing Jiaotong University**.
 - 🌱 I’m currently learning **Natural Language Processing**. 
 - 🤔 I’m looking for help with study about prompt learning.
 - 💬 Ask me about KG, Prompt and other NLP things.
 - 📫 How to reach me: 
   - Phone: +86 18518964283
-  - Email: hl.mark@qq.com
+  - Email: hongliangli@bjtu.edu.cn
 
 
 <!--
